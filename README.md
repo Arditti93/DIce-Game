@@ -32,7 +32,7 @@ if the dice roll is not equal to 1, update and display the score by acessing ele
 
 3. when the score passes 20 the game is won
 
-![909](dice.gif)
+![dice](dice.gif)
 
 
 

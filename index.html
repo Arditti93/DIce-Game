@@ -36,7 +36,6 @@
   
     <script> 
     $(document).ready(function() {
-
         let score = 0;
         let total = document.getElementById("score");
         let img = document.getElementById("img1");
@@ -51,18 +50,21 @@
                     $("#score").html(playerScore);
                 }
                 else {
-                    $(".player").html("<h2>You rolled one, try again!</h2>")
+                    $(".player").html("<h2>Game over! you've rolled a one</h2>")
                     $(".roll").hide()
+                    $("#gamePlay").hide()
                 }
 
                 if (score === 20) {
                     $(".player").html("<h3>Your score hit 20, try again!</h3>")
                     $(".roll").hide()
+                    $("#gamePlay").hide()
                 }
 
                 else if (score > 20) {
-                    $(".player").html("<h3>You win!</h3>")
+                    $(".player").html("<h3>BIG WINNER </h3>")
                     $(".roll").hide()
+                    $("#gamePlay").hide()
                 }
             }
 

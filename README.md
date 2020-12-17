@@ -20,9 +20,9 @@ Various logic using `if/else` statements is used to simulate the different aspec
                     $("#gamePlay").hide()
                 }
 ```
+if the dice roll is not equal to 1, update and display the score by acessing elements with the id of score in the HTML. 
 
-
-
+### Instructions
 
 1. Click the button to to roll the dice.
 

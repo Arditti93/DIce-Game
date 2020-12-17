@@ -2,6 +2,8 @@
 
  ### A One player nice game created with JQuery, CSS and HTML 
 
+ **[PLAY HERE](https://arditti93.github.io/DIce-Game/)**
+
  ### Approach 
 
 The `getElementById` method is used to access elements in the HTML.
@@ -29,6 +31,8 @@ if the dice roll is not equal to 1, update and display the score by acessing ele
 2. The game end if a one is rolled or the score hits 20
 
 3. when the score passes 20 the game is won
+
+![909](dice.gif)
 
 
 

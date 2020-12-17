@@ -9,7 +9,8 @@ Math.random() creates a number between 0 - 0.9, The "*6" multiplies random numbe
 
 Various logic using `if/else` statements is used to simulate the different aspects of the game for example 
 
-```              if (dice !== 1) {
+```              
+                    if (dice !== 1) {
                     score += dice;
                     $("#score").html(playerScore);
                 }

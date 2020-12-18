@@ -2,7 +2,7 @@
 
  ### A One player nice game created with JQuery, CSS and HTML 
 
- **[PLAY HERE](https://arditti93.github.io/DIce-Game/)**
+ **[PLAY HERE](https://arditti93.github.io/Dice-Game/)**
 
  ### Approach 
 

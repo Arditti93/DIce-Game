@@ -1,6 +1,6 @@
 # 1 Player Dice-Game
 
- ### A One player nice game created with JQuery, CSS and HTML 
+ ### A One player dnice game created with JQuery, CSS and HTML 
 
  **[PLAY HERE](https://arditti93.github.io/Dice-Game/)**
 
